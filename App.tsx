@@ -19,7 +19,7 @@ const App = (): React.JSX.Element => {
       <View>
         <View>
           <Text>
-            React Native App
+            React Native App new app
           </Text>
           <Text>
             Welcome to your React Native application!
