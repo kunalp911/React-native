@@ -22,7 +22,7 @@ const App = (): React.JSX.Element => {
             React Native App new app
           </Text>
           <Text>
-            Welcome to your React Native application!
+            Welcome to your React Native kunal!
           </Text>
         </View>
       </View>
